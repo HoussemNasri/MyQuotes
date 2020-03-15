@@ -1,4 +1,4 @@
-package com.example.myquotes.viewmodel;
+package com.example.myquotes.view.ui.quote;
 
 import android.app.Application;
 
